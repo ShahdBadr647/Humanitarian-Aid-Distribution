@@ -1,0 +1,11 @@
+area_id,area_name,region,population,food_need,water_need,medicine_need,urgency,vulnerable_pct,access_difficulty
+A01,North Gaza,Gaza Strip,42000,9800,21000,1450,5,48,5
+A02,Gaza City,Gaza Strip,68000,14200,33500,2100,5,44,4
+A03,Deir al-Balah,Gaza Strip,39000,7600,18200,1050,4,41,3
+A04,Khan Younis,Gaza Strip,55000,11300,26800,1700,5,46,4
+A05,Rafah,Gaza Strip,61000,12100,29400,1600,4,50,3
+A06,Jenin,West Bank,24000,3900,9100,820,3,35,3
+A07,Nablus,West Bank,31000,4300,10800,690,2,31,2
+A08,Hebron,West Bank,36000,5200,12500,760,3,33,2
+A09,Tulkarm,West Bank,18000,3100,7200,610,3,37,3
+A10,Jordan Valley,West Bank,9000,1900,5600,340,2,39,4
